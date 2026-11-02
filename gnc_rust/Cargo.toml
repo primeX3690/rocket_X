@@ -1,0 +1,16 @@
+
+
+[package]
+name = "gnc_rust"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "gnc_rust"
+crate-type = ["staticlib", "rlib"]
+
+[dependencies]
+nalgebra = "0.32"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1.0", features = ["full"] }

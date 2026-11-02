@@ -1,0 +1,25 @@
+
+
+
+{
+  "mission_profile": "HYBRID_6DOF_ALPHA_TEST",
+  "version": "1.0.0",
+  "launch_site": {
+    "site_name": "Test Range Alpha",
+    "latitude_deg": 13.0827,
+    "longitude_deg": 80.2707,
+    "altitude_msl_m": 100.0
+  },
+  "target_destination": {
+    "target_id": "PRIMARY_WAYPOINT_01",
+    "x_m": 10000.0,
+    "y_m": 0.0,
+    "z_m": 1000.0
+  },
+  "vehicle_specifications": {
+    "dry_mass_kg": 35.0,
+    "fuel_mass_kg": 15.0,
+    "reference_area_sq_m": 0.12,
+    "reference_length_m": 2.0
+  }
+}

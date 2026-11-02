@@ -1,0 +1,14 @@
+/mnt/c/Users/ACER/OneDrive/Desktop/Rocket_simulator/target/release/deps/serde-c428b17d5e94398b.d: /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /mnt/c/Users/ACER/OneDrive/Desktop/Rocket_simulator/target/release/build/serde-05b515011b0bb4f6/out/private.rs
+
+/mnt/c/Users/ACER/OneDrive/Desktop/Rocket_simulator/target/release/deps/libserde-c428b17d5e94398b.rlib: /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /mnt/c/Users/ACER/OneDrive/Desktop/Rocket_simulator/target/release/build/serde-05b515011b0bb4f6/out/private.rs
+
+/mnt/c/Users/ACER/OneDrive/Desktop/Rocket_simulator/target/release/deps/libserde-c428b17d5e94398b.rmeta: /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /mnt/c/Users/ACER/OneDrive/Desktop/Rocket_simulator/target/release/build/serde-05b515011b0bb4f6/out/private.rs
+
+/home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/acer_kings/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/mnt/c/Users/ACER/OneDrive/Desktop/Rocket_simulator/target/release/build/serde-05b515011b0bb4f6/out/private.rs:
+
+# env-dep:OUT_DIR=/mnt/c/Users/ACER/OneDrive/Desktop/Rocket_simulator/target/release/build/serde-05b515011b0bb4f6/out
